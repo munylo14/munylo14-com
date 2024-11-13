@@ -45,3 +45,18 @@ body {
     text-decoration: none;
     color: deepskyblue;
 }
+
+.useful-links {
+    border: 1px solid black;
+    width: 250px;
+    text-align: center;
+    padding: 15px;
+    margin: auto;
+    margin-top: 15px;
+    font-family: 'Outfit';
+}
+
+.useful-links li {
+    list-style-type: none;
+    margin-top: 5px;
+}
