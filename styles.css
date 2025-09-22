@@ -16,7 +16,7 @@ body {
 
 .page-top-header {
     font-size: 2.5em;
-    width: 550px;
+    max-width: 90%;
     margin: auto;
     margin-top: 10px;
     padding-top: 5px;
@@ -44,7 +44,8 @@ body {
 
 .coming-soon {
     box-sizing:border-box;
-    width: 600px;
+    min-width: auto;
+    max-width: 95%;
     margin: auto;
     margin-top: 10px;
     padding: 25px;
